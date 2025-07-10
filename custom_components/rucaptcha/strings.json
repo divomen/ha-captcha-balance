@@ -1,0 +1,36 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "RuCaptcha / 2Captcha",
+        "description": "Set up your RuCaptcha or 2Captcha integration to monitor your balance.",
+        "data": {
+          "api_key": "API Key",
+          "api_domain": "Service",
+          "update_interval": "Update Interval (minutes)",
+          "currency": "Currency"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to API",
+      "invalid_auth": "Invalid API key",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "Device is already configured"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "RuCaptcha / 2Captcha Options",
+        "description": "Configure your integration options.",
+        "data": {
+          "update_interval": "Update Interval (minutes)",
+          "currency": "Currency"
+        }
+      }
+    }
+  }
+}
