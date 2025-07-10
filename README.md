@@ -4,7 +4,7 @@ This custom integration allows you to monitor your RuCaptcha or 2Captcha balance
 
 ## Installation
 
-1. Copy the `custom_components/rucaptcha` folder to your Home Assistant `custom_components` directory
+1. Copy the `custom_components/captcha_balance` folder to your Home Assistant `custom_components` directory
 2. Restart Home Assistant
 3. Go to Configuration > Integrations
 4. Click "Add Integration" and search for "RuCaptcha"

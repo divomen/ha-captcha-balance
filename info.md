@@ -27,7 +27,7 @@ Monitor your RuCaptcha or 2Captcha balance directly in Home Assistant. Both serv
 
 ### Manual Installation
 
-1. Copy the `custom_components/rucaptcha` folder to your Home Assistant `custom_components` directory
+1. Copy the `custom_components/captcha_balance` folder to your Home Assistant `custom_components` directory
 2. Restart Home Assistant
 
 ## Configuration

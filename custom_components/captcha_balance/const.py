@@ -1,6 +1,6 @@
 """Constants for the RuCaptcha integration."""
 
-DOMAIN = "rucaptcha"
+DOMAIN = "captcha_balance"
 
 CURRENCIES = ["RUB", "EUR", "USD"]
 
