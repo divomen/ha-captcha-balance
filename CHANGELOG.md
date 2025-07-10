@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2025-07-10
+
+### BREAKING CHANGES
+- Changed integration domain from `rucaptcha` to `captcha_balance`
+- Renamed directory from `custom_components/rucaptcha/` to `custom_components/captcha_balance/`
+- Updated GitHub repository URLs
+- Existing installations require migration (remove old, install new)
+
 ## [1.1.0] - 2025-07-10
 
 ### Added

@@ -1,4 +1,4 @@
-"""Config flow for RuCaptcha integration."""
+"""Config flow for RuCaptcha / 2Captcha integration."""
 from __future__ import annotations
 
 import http.client

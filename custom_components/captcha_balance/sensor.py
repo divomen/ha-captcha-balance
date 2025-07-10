@@ -1,4 +1,4 @@
-"""RuCaptcha balance sensor."""
+"""RuCaptcha / 2Captcha balance sensor."""
 from __future__ import annotations
 
 import http.client

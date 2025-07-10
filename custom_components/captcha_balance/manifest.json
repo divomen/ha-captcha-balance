@@ -1,11 +1,11 @@
 {
-  "domain": "rucaptcha",
+  "domain": "captcha_balance",
   "name": "RuCaptcha / 2Captcha",
-  "documentation": "https://github.com/yourusername/ha-rucaptcha",
-  "issue_tracker": "https://github.com/yourusername/ha-rucaptcha/issues",
+  "documentation": "https://github.com/divomen/ha-captcha-balance",
+  "issue_tracker": "https://github.com/divomen/ha-captcha-balance/issues",
   "requirements": [],
   "codeowners": [],
   "config_flow": true,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "iot_class": "cloud_polling"
 }

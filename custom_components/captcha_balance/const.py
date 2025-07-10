@@ -1,4 +1,4 @@
-"""Constants for the RuCaptcha integration."""
+"""Constants for the RuCaptcha / 2Captcha integration."""
 
 DOMAIN = "captcha_balance"
 
