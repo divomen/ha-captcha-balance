@@ -4,7 +4,7 @@
   "documentation": "https://github.com/divomen/ha-captcha-balance",
   "issue_tracker": "https://github.com/divomen/ha-captcha-balance/issues",
   "requirements": [],
-  "codeowners": [],
+  "codeowners": ["@divomen"],
   "config_flow": true,
   "version": "1.2.0",
   "iot_class": "cloud_polling"
